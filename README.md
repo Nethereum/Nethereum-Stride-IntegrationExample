@@ -3,6 +3,8 @@ Nethereum Stride integration example using Stride's Jumpy Jet example: https://g
 
 This simple integration, uses directly the Nethereum.Web3 Nuget, retrieving a block number in a background thread and then is diplayed in the UI component.
 
+![example integration](./screenshots/stride-nethereum-jumpyjet-blocknumber.gif)
+
 ## Background thread
 ```csharp
 
